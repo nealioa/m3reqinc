@@ -1,1 +1,1 @@
-# website-template
+# Demo of PHP require and include.
